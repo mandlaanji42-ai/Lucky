@@ -1,0 +1,10 @@
+a=input("enter the string:")
+b=input("enter the string2:")
+a1="",join(i for i in a if i.isalnm())
+b1="",join (i for i in b if i.islnm())
+a1=sorted(a)
+b1=sorted(b)
+if a2==b2:
+  print("anagram")
+else:
+ print("no")
