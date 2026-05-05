@@ -1,0 +1,31 @@
+class(ace):
+     col="ACE COLLEGE"
+     def give_details(self,a,b,c,d):
+         self.tot=a+b+C
+         self.name=d
+    def disply(self):
+        print("1 NAME",self.name)
+        print("2 MARK",self.tot)
+        print("3 CCOLLEGE",self)
+        
+class(bvrit):
+     col=BVRIT COLLEGE"
+     def give_details(self,a,b,c,d):
+         self.tot=a+b+C
+         self.name=d
+    def disply(self):
+        print("1 NAME",self.name)
+        print("2 MARK",self.tot)
+        print("3 CCOLLEGE",self)
+a1=ace()
+a2=ace()
+a.set_dim(20,40,60,"RAHUL")
+a2.se_dim(40,50,69,"GEETHA")
+b1=bvrit()
+b2=bvrit()
+b.set_(30,40,10,"anjali")
+b2.set(40,20,30,"rose")
+a.disply()
+a2.display()
+b.display()
+b2.displa()
